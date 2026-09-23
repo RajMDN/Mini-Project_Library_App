@@ -143,7 +143,7 @@ Building this project in small steps helped me follow how data moves from a Tkin
 
 Guidance, help and motivation from the Teacher, Mrs.Aiby Sara Biju was phenomenal to be able to complete the mini project on time.
 
-I took help from ChatGPT especially around the login.py code, also to understand  some of the errors and trouble shooting. 
+I took help from ChatGPT especially around creating the login.py code, also to understand  some of the errors and trouble shooting. 
 
 
 
