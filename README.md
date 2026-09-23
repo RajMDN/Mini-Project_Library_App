@@ -83,8 +83,8 @@ Fill in this table with tested project-only accounts from the supplied database.
 
 | Role | Username | Project-only password |
 | --- | --- | --- |
-| Librarian | TO BE ADDED | TO BE ADDED |
-| Library User | TO BE ADDED | TO BE ADDED |
+| Librarian | RB007 | TO BE ADDED |
+| Library User | Paddy | TO BE ADDED |
 
 New accounts created through Sign Up receive the Library User role. Sign Up does not grant librarian access.
 
